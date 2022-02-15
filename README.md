@@ -1,20 +1,14 @@
 ## Overview
-Repository creates for fast running development process with configuration, which are the same from project to project.
-
-## Building
-...
-
-## Troubleshooting
-...
+Implementation of a backend application that is able:
+- to save objects Car and Person;
+- to generate object Statistics;
+- to delete all previously saved objects Car and Person.
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
 * Semyon Tarasov - [TarasovSam](https://github.com/TarasovSam)
-
-## Acknowledgments
-...
 
 ## Contributing
 Please, follow [Contributing](CONTRIBUTING.md) page.
